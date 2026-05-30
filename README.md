@@ -15,7 +15,7 @@
 - Ютуб (смотреть видосики)
 
 ## Как это использовать (по-быстрому)
-1. Качаешь [BBDPI](https://github.com/romanvht/byedpi-android)
+1. Качаешь [BBDPI](https://github.com/romanvht/ByeByeDPI)
 2. Загружаешь мой файлик "BBD_AntiRKN-data.json"
 3. Импортируешь в настройках
 4. Включаешь и забываешь
