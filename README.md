@@ -22,7 +22,7 @@
 ## Доступные конфиги
 - `bbd_AntiRKN.json` — базовый
 - `BBD_Every_day.json` — универсальный
-- `BBD_Games.json` — скоро
+- `BBD_Games.json` — для геймеров 
 
 
 
