@@ -66,7 +66,8 @@ Choose the version carefully to avoid issues:
 
 ![Import settings](images/Screenshot_for_instructions2.jpg)
 
----
+# Note:
+- Repository files are used to store images and languages and do not contain source code; they are simply .json files!!!
 
 ## Authors
 
