@@ -41,7 +41,6 @@
 ## 2. Скачай нужный конфиг
 - В этом репозитории выбери файл `.json`:
   - `bbd_AntiRKN.json` — базовый, для сайтов
-  - `BBD_Every_day.json` — универсальный, на каждый день
   - `bbd_Games.json` — **игровой** (Discord, YouTube, Steam, Xbox, Epic, PUBG, Among Us, Roblox)
 - Нажми на файл, затем на **Download** (или «Скачать»)
 
